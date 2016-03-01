@@ -16,6 +16,8 @@ import java.io.Serializable;
 
     public static final String ISTATUS = "Login";
     public static final String defaul = "Welcome back!";
+    private String spring;
+    private String yixian;
     private String status;
     private String id;
     private String name;
