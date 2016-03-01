@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 13, 2015, 10:41:39 PM
+    Author     : Xun
+*/
+body {
+ 
+    color: brown;
+    font-family: times new roman, arial, verdana;
+    font-size: 1.3em;
+  
+}
+h1 {
+ 
+    color: green;
+ 
+    font-family: times new roman, arial, verdana;
+    font-size: 2em;
+    font-weight:Bold;
+}
