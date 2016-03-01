@@ -15,7 +15,7 @@
     </head>
     <body>
         <span><img class="banner" src="http://www.socialknx.com/wp-content/uploads/2015/02/basketball-swish1.jpg?b4fa92" width="800" height="150"/> </span>
-        <p>2222222222222222221111111111111111111This simple app is for people who like playing basketball and they can add friends with each other (By sending request and give response)
+        <p>33333332222222222222222221111111111111111111This simple app is for people who like playing basketball and they can add friends with each other (By sending request and give response)
             create or join events, such as a game that needs participants, post their breaking news, upload their profile picture, search friends..
             Log in with (<inline>Username:1,password:mbs</inline>), some users have sent you friend requests, you can choose accept or refuse them.
          You can also create an account and log in by using your account. When you create an account, we will harvest some information, such as 
